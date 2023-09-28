@@ -1,4 +1,4 @@
-# Page d'accueil
+# Page de description du film
 
 **Fonctionnalitées**
 
